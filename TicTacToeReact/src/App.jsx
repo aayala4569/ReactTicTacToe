@@ -1,11 +1,15 @@
 import React from 'react'
+import Square from './components/square'
 
 
 
-function App () => {
+
+
+function App (){
+
   return (
-    
-     <button className="square">X</button>
+   <Square/>
+     
    
   )
 }
