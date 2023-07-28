@@ -1,5 +1,6 @@
 import React from 'react'
 import Square from './components/square'
+import Board from './components/Board'
 
 
 
@@ -8,7 +9,7 @@ import Square from './components/square'
 function App (){
 
   return (
-   <Square/>
+ <Board/>
      
    
   )
